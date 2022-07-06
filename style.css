@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+.main-head{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:max-content;
+    position: absolute;
+    display: block;
+    height: 80%;
+    width:100%;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
